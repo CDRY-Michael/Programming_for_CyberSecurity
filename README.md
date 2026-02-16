@@ -1,2 +1,5 @@
 # Programming_for_CyberSecurity
-Assignments submissions
+
++ Name: Michael Chaudhary
++ BSc (Hons) Cyber Security and Digital Forensics
++ Assignments submissions
