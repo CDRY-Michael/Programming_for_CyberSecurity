@@ -10,10 +10,11 @@
  */
 
 #include <stdio.h>
-#define ACCOMMODATION 20000 // Named constant for accommodation expense
 
 int main()
-{
+{   
+    const int ACCOMMODATION = 20000; // Named constant for accommodation expense
+
     float foodExpense, leisureExpense, clothesExpense, travel;
     float totalSpent;
     int result; // To store scanf() return value
