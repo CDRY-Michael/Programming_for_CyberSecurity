@@ -25,7 +25,7 @@ int main()
     scanf("%f", &travel);
 // Calcultes total expense
     totalSpent = foodExpense + leisureExpense + clothesExpense + accomodation + travel;
-// Prints the Total Expense
+// Prints the Total Expemse
     printf("The total expenditure this month was Rs.%.2f\n\n",totalSpent);
 
 }
